@@ -1,0 +1,15 @@
+001
+Indomie Ayam Bawang
+2500
+Makanan
+
+002
+Milo Kaleng
+7000
+Minuman
+
+003
+Frozen Fruit
+56000
+Buah
+
